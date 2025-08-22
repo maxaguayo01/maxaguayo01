@@ -84,7 +84,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. M
 
 
 ## 🎵 Spotify Playing
-[![Spotify](https://novatorem-maxaguayo01.vercel.app/api/spotify)](https://open.spotify.com/user/tu-spotify-username)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12183354429&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
