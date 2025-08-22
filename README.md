@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Max Aguayo
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Data+Science;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
@@ -11,11 +11,10 @@
 
 Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Me encanta explorar nuevas tecnologías y resolver problemas complejos con código limpio y bien estructurado.
 
-- 🔭 Actualmente trabajando en proyectos de **desarrollo web** y **aplicaciones móviles**
+- 🔭 Actualmente trabajando en proyectos de **desarrollo web** 
 - 🌱 Aprendiendo constantemente nuevas tecnologías y mejores prácticas
-- 👯 Buscando colaborar en proyectos **open source** interesantes
-- 💬 Pregúntame sobre **JavaScript**, **Python**, **React**, o cualquier tecnología web
-- 📫 Cómo contactarme: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
+- 💬 Pregúntame sobre **JavaScript**, **Python**, **Go**, **React**, o cualquier tecnología web
+- 📫 Cómo contactarme: [maxaguayo01@outlook.es](mailto:maxaguayo01@outlook.es)
 - ⚡ Dato curioso: Me gusta resolver algoritmos en mi tiempo libre
 
 ## 🛠️ Tecnologías y Herramientas
@@ -25,6 +24,7 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. M
 ### Lenguajes de Programación
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -54,15 +54,10 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. M
   <img src="https://github-readme-stats.vercel.app/api?username=maxaguayo01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxaguayo01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxaguayo01&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-
 
 ## 🤝 Conecta conmigo
 
@@ -84,11 +79,12 @@ Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. M
 
 <div align="center">
 
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maxaguayo01&theme=tokyonight&no-frame=true&row=1&column=6)
 
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxaguayo01&theme=tokyo-night&hide_border=true)
 
-
+## 🎵 Spotify Playing
+[![Spotify](https://novatorem-maxaguayo01.vercel.app/api/spotify)](https://open.spotify.com/user/tu-spotify-username)
 
 </div>
 
