@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnolog%C3%ADa;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </div>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+
 ## 🚀 Sobre mí
 
 Soy un desarrollador apasionado por crear soluciones innovadoras y eficientes. Me encanta explorar nuevas tecnologías y resolver problemas complejos con código limpio y bien estructurado.
@@ -89,14 +92,11 @@ Descripción de otro proyecto importante en tu perfil.
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=maxaguayo01&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ## 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxaguayo01&theme=tokyo-night&hide_border=true)
 
-## 🎵 Spotify Playing
-[![Spotify](https://novatorem-maxaguayo01.vercel.app/api/spotify)](https://open.spotify.com/user/tu-spotify-username)
+
 
 </div>
 
